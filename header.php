@@ -20,3 +20,6 @@
 
 		<div id="site-content">
 			Site content
+
+			<div id="site-content">
+			Site content

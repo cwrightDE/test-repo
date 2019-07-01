@@ -1,0 +1,32 @@
+/*
+Theme Name: Streamlined
+Theme URI: https://designextensions.com
+Description: The industry standard for Premium WordPress Themes.
+Author: Chris Wright
+Author URI: https://chriswright.online
+Version: 1.0.0
+Tags: one-column, two-columns, three-columns, left-sidebar, right-sidebar, custom-menu, featured-images, full-width-template, rtl-language-support, sticky-post, theme-options, threaded-comments, translation-ready, accessibility-ready
+License: GPL-2.0-or-later
+*/
+body {
+  font-family: 'Open Sans';
+}
+
+#site-header h1{
+  font-size: 42px;
+  padding: 22px;
+  text-align: center;
+} 
+
+#site-sidebar {
+  float: left;
+  background: #fafafa;
+  width: 200px;
+  padding: 22px;
+}
+
+#site-content {
+  background: #ffffff;
+  padding: 22px;
+  margin-left: 244px;
+}
